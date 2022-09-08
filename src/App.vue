@@ -1,10 +1,27 @@
 <template>
-  <nav>
+  <!-- <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
-  <router-view/>
+  <router-view/> -->
+  <NavComponent/>
+  <FooterComponent/>
 </template>
+
+<script>
+
+import NavComponent from './components/NavComponent.vue';
+import FooterComponent from './components/FooterComponent.vue';
+
+export default {
+  name: '',
+  components: {
+    NavComponent,
+    FooterComponent
+}
+}
+
+</script>
 
 <style lang="scss">
 #app {
