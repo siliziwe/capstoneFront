@@ -4,7 +4,8 @@
       <div class="inner-container">
         <h1>About Us</h1>
         <p class="text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit ducimus, enim inventore earum, eligendi nostrum pariatur necessitatibus eius dicta a voluptates sit deleniti autem error eos totam nisi neque voluptates sit deleniti autem error eos totam nisi neque.
+          Acquired by LC in 2039, Tommorow-Tech continues to innovate and dominate at the intersection of technology. <br>
+          Tommorow-Tech offer the best and advanced technology in the decade. We have the most advanced technolgy on the planet and we have some of the best team behind the scenes.
         </p>
         <div class="skills">
           <span>Web Design</span>

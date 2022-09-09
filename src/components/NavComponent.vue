@@ -27,7 +27,7 @@
                 <router-link class="text-decoration-none text-black" to="/contact">Contact</router-link>
              </li>
              <li class="nav-item text-decoration-none">
-                <router-link class="text-decoration-none text-black" to="/">Login/Signup</router-link>
+                <router-link class="text-decoration-none text-black" to="/login">Login/Signup</router-link>
              </li>
 
           </ul>
@@ -39,7 +39,6 @@
     </template>
     <style>
     .nav-item{
-    position: relative;
     padding: 20px;
     font-size: larger;
     }

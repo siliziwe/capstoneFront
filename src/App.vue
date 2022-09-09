@@ -12,12 +12,14 @@
 
 import NavComponent from './components/NavComponent.vue';
 import FooterComponent from './components/FooterComponent.vue';
+import CartIcon from './components/cartIcon.vue'
 
 export default {
   name: '',
   components: {
     NavComponent,
-    FooterComponent
+    FooterComponent,
+    CartIcon
 }
 }
 

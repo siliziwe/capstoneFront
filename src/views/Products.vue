@@ -2,10 +2,10 @@
     <section class="section-products py-5 my-5 p-5">
         <div class="header">
           <!-- <h3>Featured Product</h3> -->
-          <h1>Products</h1>
+          <h1 class="text-dark">Products</h1>
         </div>
   
-      <div class="container">
+      <div class="container shadow-lg">
         <div class="row justify-content-center text-center">
           <div class="col-md-8 col-lg-6">
           </div>
@@ -94,6 +94,11 @@
     font-weight: 500;
     text-align: center;
   }
+
+
+
+
+
   
   .section-products .header {
       margin-bottom: 50px;
