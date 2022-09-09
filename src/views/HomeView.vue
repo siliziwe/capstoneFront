@@ -9,7 +9,7 @@
         <input type="text" class="form-control pass m-auto" id="firstName" v-model="firstName">
       </div>
         <div class="form-group">
-        <label for="lastName">Last tName</label>
+        <label for="lastName">Last Name</label>
         <input type="text" class="form-control pass m-auto" id="lastName" v-model="lastName">
       </div>
       <div class="form-group">
